@@ -1,6 +1,7 @@
 # Token-Dashboard
 
 <img width="1057" height="679" alt="image" src="https://github.com/user-attachments/assets/1aeb0ee4-f384-494e-98ba-f4a30a798c70" />
+<img width="256" height="381" alt="image" src="https://github.com/user-attachments/assets/53e70afc-2ee1-455d-8416-b6d4544c6557" />
 
 <img width="1131" height="605" alt="image" src="https://github.com/user-attachments/assets/63ed568b-42d9-4a15-a766-1b829312eb14" />
 
